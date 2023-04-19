@@ -112,7 +112,7 @@
     color: var(--color-white);
 }
 
-@media screen and (max-width: 3000px) {
+@media screen and (min-width: 2000px) {
     .app__navbar-logo img {
         width: 140px;
     }
