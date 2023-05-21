@@ -11,7 +11,7 @@
 
 ## Phone Demo
 
-<img src="src/demo/phone_demo.gif"> 
+<img src="src/demo/phone_demo.gif" width="100" height="100"> 
 
 
 # Getting Started with Create React App
