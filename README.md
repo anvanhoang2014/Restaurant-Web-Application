@@ -5,9 +5,13 @@
 
 ---
 
-## Demo
+## Desktop Demo
 
-<img src="src/demo/homepage.PNG"> 
+<img src="src/demo/desktop_demo.gif"> 
+
+## Phone Demo
+
+<img src="src/demo/phone_demo.gif"> 
 
 
 # Getting Started with Create React App
